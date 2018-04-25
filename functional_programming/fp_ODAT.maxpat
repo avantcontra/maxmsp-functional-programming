@@ -39,13 +39,13 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-2",
-					"linecount" : 5,
+					"linecount" : 10,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 16.0, 52.0, 294.0, 74.0 ],
+					"patching_rect" : [ 16.0, 52.5, 347.0, 141.0 ],
 					"style" : "",
-					"text" : "https://github.com/avantcontra/maxmsp_examples\n--\nContra \nwebsite: float.cc\ntwitter/facebook: @avantcontra"
+					"text" : "article: https://medium.com/@contra/your-object-may-be-a-function-maxmsp-functional-programming-learning-e04a147a1b85\n\ncode: \nhttps://github.com/avantcontra/maxmsp_examples\n\n--\nContra \nfloat.cc/blogs"
 				}
 
 			}
@@ -60,21 +60,21 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 16.0, 18.0, 294.0, 24.0 ],
 					"style" : "",
-					"text" : "Functional Programing with ODAT"
+					"text" : "Functional Programming with ODAT"
 				}
 
 			}
 , 			{
 				"box" : 				{
 					"id" : "obj-139",
-					"linecount" : 3,
+					"linecount" : 5,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 153.0, 463.0, 51.0, 49.0 ],
+					"patching_rect" : [ 153.0, 463.0, 51.0, 76.0 ],
 					"style" : "",
-					"text" : "hit hit hit hit hit hit"
+					"text" : "hit hit hit hit hit hit hit hit hit hit"
 				}
 
 			}
@@ -192,7 +192,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1159.0, 471.0, 50.0, 18.0 ],
+					"patching_rect" : [ 1159.0, 471.0, 51.0, 18.0 ],
 					"style" : "",
 					"text" : "print log\n"
 				}
@@ -287,7 +287,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1007.0, 643.0, 113.0, 34.0 ],
-					"text" : "/data : 6",
+					"text" : "/data : 10",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -302,7 +302,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 992.0, 561.0, 104.0, 34.0 ],
-					"text" : "/data : 6",
+					"text" : "/data : 10",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -327,13 +327,13 @@
 					"fontface" : 0,
 					"fontsize" : 12.0,
 					"id" : "obj-87",
-					"linecount" : 3,
+					"linecount" : 4,
 					"maxclass" : "o.display",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 986.0, 471.0, 170.0, 61.0 ],
-					"text" : "/data : [\"hit\", \"hit\", \"hit\", \"hit\", \"hit\", \"hit\"]",
+					"patching_rect" : [ 986.0, 471.0, 170.0, 75.0 ],
+					"text" : "/data : [\"hit\", \"hit\", \"hit\", \"hit\", \"hit\", \"hit\", \"hit\", \"hit\", \"hit\", \"hit\"]",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
