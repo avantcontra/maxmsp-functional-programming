@@ -3,7 +3,7 @@ MaxMSP demos/examples/ I create.
 
 ----
 
-- Website: [float.cc/blogs](https://float.cc/blogs)
+- Website: [floatbug.com/contra](https://www.floatbug.com/contra)
 - facebook: [avantcontra](https://facebook.com/avantcontra)
 - twitter: [avantcontra](https://twitter.com/avantcontra)  
 
