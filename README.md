@@ -4,7 +4,7 @@ It is a sample patch for my article:
 
 ----
 
-- Website: [floatbug.com/contra](https://www.floatbug.com/contra)
+- Website: [floatbug.com](https://www.floatbug.com/)
 - facebook: [avantcontra](https://facebook.com/avantcontra)
 - twitter: [avantcontra](https://twitter.com/avantcontra)  
 - patreon (buy me a coffee): [avantcontra](https://www.patreon.com/avantcontra)
